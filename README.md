@@ -4,6 +4,10 @@
 Welcome to **Celestial Mechanics**! This interactive, educational simulation is designed to explore fundamental astronomical phenomena, including the Earth's rotation, eclipses, and the movement of celestial bodies. Whether you're a student eager to learn or an enthusiast looking to explore the universe, this project provides a fun, informative, and visually stunning way to understand the physics behind space science.
 
 🚀 **Explore the wonders of our universe and understand the physics and scientific principles that shape it!**
+---
+
+![image](https://github.com/user-attachments/assets/7467a2f3-e85a-4183-a2ca-04264c36793d)
+
 
 ---
 
@@ -45,14 +49,9 @@ Welcome to **Celestial Mechanics**! This interactive, educational simulation is 
 3. Interact with the 3D solar system to observe the Day-Night Cycle, Eclipse formations, and more!
 
 ---
+You can access the app directly by clicking on the link:
+https://ezrayalley.github.io/Celestial-Mechanics-Simulation-App/
 
-## 📸 Screenshots
-Add some eye-catching screenshots of the simulation in action! Here’s where you can display visuals to grab the user's attention.
-
-- An image showing the solar system simulation with the Day-Night cycle in action.
-- An image showcasing the eclipse simulation.
-
----
 
 ## 👥 Contribution
 Contributions are welcome from anyone passionate about education, space, science, physics, and simulation!
